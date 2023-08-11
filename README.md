@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif" width="300"/>
 
-<!--
-**frknaykc/frknaykc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/muhsin-furkan-aykaç-0a9ba0261">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://twitter.com/tweetozof">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=frknaykc&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :hammer_and_wrench: Languages and Tools : 
