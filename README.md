@@ -1,27 +1,92 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpwbjkycDViYWhwM3gxc3h6d3Y0MWlia3VreWRtbjR1dDc3bXBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yOt4iUfeWtk88/giphy.gif" width="300"/>
 
-# who am I ?
-🔭 I’m currently working on Cyber Threat Intel<br>⚡ I'm currently learning how to apply machine learning and deep learning techniques in the field of cyber security.<br>💬 Ask me about cyber security trends, future threats, and security measures.<br>
+# 👋 who am I ?
+
+I am a **Cyber Threat Intelligence & Cyber Security Researcher**  
+focused on **real-world threat analysis, adversary behavior, and emerging cyber threats**.
+
+🔭 I’m currently working on **Cyber Threat Intelligence (CTI)**, malware & ransomware analysis, APT groups, C2 infrastructures  
+⚡ I’m currently learning how to apply **Machine Learning & Deep Learning** techniques in cyber security  
+💬 Ask me about **cyber security trends, threat actors, malware techniques, detection & response strategies**
+
+---
 
 # 💻 playground
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![VirusTotal](https://img.shields.io/badge/-VirusTotal-%23394EFF?style=for-the-badge&logo=virustotal&logoColor=white) ![Tor Browser](https://img.shields.io/badge/-Tor%20Browser-%237D4698?style=for-the-badge&logo=torbrowser&logoColor=white) ![Tor Project](https://img.shields.io/badge/-Tor%20Project-%237E4798?style=for-the-badge&logo=torproject&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![BurpSuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### 🧠 Cyber Security & Analysis
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-2E8B57?style=for-the-badge)
+![Sigma](https://img.shields.io/badge/Sigma-4682B4?style=for-the-badge)
+![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-B22222?style=for-the-badge)
+
+### ⚔️ Red Team / Offensive
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)
+
+### 🧑‍💻 Frontend / Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend / Infra / Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 # 🔍 cyber ops
 
-![Threat Data Collector](https://img.shields.io/badge/Threat_Data_Collector-FF4500?style=for-the-badge&logo=database&logoColor=white)
-![Ransomware Monitoring](https://img.shields.io/badge/Ransomware_Monitoring-DC143C?style=for-the-badge&logo=shield&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-0078D6?style=for-the-badge&logo=shield&logoColor=white)
-![APT Analysis](https://img.shields.io/badge/APT_Analysis-00A67E?style=for-the-badge&logo=shield&logoColor=white)
-![C2 Monitoring](https://img.shields.io/badge/C2_Monitoring-0078D6?style=for-the-badge&logo=monitor&logoColor=white)
-![C2 Network Analysis](https://img.shields.io/badge/C2_Network_Analysis-FF5733?style=for-the-badge&logo=network&logoColor=white)
-![Darkweb Recon](https://img.shields.io/badge/Darkweb_Recon-800080?style=for-the-badge&logo=web&logoColor=white)
-![Ransomware Response](https://img.shields.io/badge/Ransomware_Response-FF0000?style=for-the-badge&logo=alert&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-00A1D7?style=for-the-badge&logo=search&logoColor=white)
+### 🛰️ Threat Intelligence
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-FF4500?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-00A1D7?style=for-the-badge)
+![Dark_Web_Intelligence](https://img.shields.io/badge/Dark_Web_Intelligence-4B0082?style=for-the-badge)
+![IOC_Tracking](https://img.shields.io/badge/IOC_Tracking-DC143C?style=for-the-badge)
+![Threat_Actor_Profiling](https://img.shields.io/badge/Threat_Actor_Profiling-8B0000?style=for-the-badge)
 
+### 🧬 Malware & Ransomware
+![Malware_Analysis](https://img.shields.io/badge/Malware_Analysis-0078D6?style=for-the-badge)
+![Ransomware_Monitoring](https://img.shields.io/badge/Ransomware_Monitoring-B22222?style=for-the-badge)
+![Static_Analysis](https://img.shields.io/badge/Static_Analysis-2E8B57?style=for-the-badge)
+![Dynamic_Analysis](https://img.shields.io/badge/Dynamic_Analysis-006400?style=for-the-badge)
+![Sandboxing](https://img.shields.io/badge/Sandboxing-556B2F?style=for-the-badge)
 
+### 🌐 Network & C2
+![C2_Monitoring](https://img.shields.io/badge/C2_Monitoring-4682B4?style=for-the-badge)
+![Network_Traffic_Analysis](https://img.shields.io/badge/Network_Traffic_Analysis-1E90FF?style=for-the-badge)
+![Beaconing_Detection](https://img.shields.io/badge/Beaconing_Detection-00008B?style=for-the-badge)
+![Botnet_Analysis](https://img.shields.io/badge/Botnet_Analysis-483D8B?style=for-the-badge)
 
-# 📊
+### 🕵️ APT & Hunting
+![APT_Analysis](https://img.shields.io/badge/APT_Analysis-2F4F4F?style=for-the-badge)
+![MITRE_ATT%26CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge)
+![Threat_Hunting](https://img.shields.io/badge/Threat_Hunting-556B2F?style=for-the-badge)
+![Campaign_Tracking](https://img.shields.io/badge/Campaign_Tracking-8B4513?style=for-the-badge)
+
+### 🚨 Incident & Response
+![Incident_Response](https://img.shields.io/badge/Incident_Response-B22222?style=for-the-badge)
+![Ransomware_Response](https://img.shields.io/badge/Ransomware_Response-8B0000?style=for-the-badge)
+![Early_Warning](https://img.shields.io/badge/Early_Warning-FF8C00?style=for-the-badge)
+
+---
+
+# 📊 stats
+
 ![](https://github-readme-stats.vercel.app/api?username=frknaykc&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=frknaykc&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frknaykc&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -29,5 +94,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=frknaykc&icon=6&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created & customized for Cyber Ops -->
 </div>
