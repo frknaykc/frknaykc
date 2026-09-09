@@ -14,6 +14,10 @@ I’m also interested in the security challenges introduced by AI-native systems
 
 ---
 
+## Tool Box
+
+### Security Monitoring & Analysis
+
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
@@ -23,19 +27,34 @@ I’m also interested in the security challenges introduced by AI-native systems
 ![Sigma](https://img.shields.io/badge/Sigma-4682B4?style=for-the-badge)
 ![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-B22222?style=for-the-badge)
+
+### Security Testing
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)
 
+---
+
+## Skills
+
+### Web Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Languages & Runtimes
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Infrastructure & Databases
+
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
@@ -44,36 +63,48 @@ I’m also interested in the security challenges introduced by AI-native systems
 
 ---
 
-<b>cyber ops</b>
+## CyberOps
+
+### Threat Intelligence
 
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-FF4500?style=for-the-badge)
 ![OSINT](https://img.shields.io/badge/OSINT-00A1D7?style=for-the-badge)
 ![Dark_Web_Intelligence](https://img.shields.io/badge/Dark_Web_Intelligence-4B0082?style=for-the-badge)
 ![IOC_Tracking](https://img.shields.io/badge/IOC_Tracking-DC143C?style=for-the-badge)
 ![Threat_Actor_Profiling](https://img.shields.io/badge/Threat_Actor_Profiling-8B0000?style=for-the-badge)
+![APT_Analysis](https://img.shields.io/badge/APT_Analysis-2F4F4F?style=for-the-badge)
+![Campaign_Tracking](https://img.shields.io/badge/Campaign_Tracking-8B4513?style=for-the-badge)
+![Adversary TTPs](https://img.shields.io/badge/Adversary_TTPs-8B0000?style=for-the-badge)
+![MITRE_ATT%26CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge)
+
+### Malware & Ransomware Analysis
+
 ![Malware_Analysis](https://img.shields.io/badge/Malware_Analysis-0078D6?style=for-the-badge)
 ![Ransomware_Monitoring](https://img.shields.io/badge/Ransomware_Monitoring-B22222?style=for-the-badge)
 ![Static_Analysis](https://img.shields.io/badge/Static_Analysis-2E8B57?style=for-the-badge)
 ![Dynamic_Analysis](https://img.shields.io/badge/Dynamic_Analysis-006400?style=for-the-badge)
 ![Sandboxing](https://img.shields.io/badge/Sandboxing-556B2F?style=for-the-badge)
+![Botnet_Analysis](https://img.shields.io/badge/Botnet_Analysis-483D8B?style=for-the-badge)
+
+### Threat Hunting & Detection
+
 ![C2_Monitoring](https://img.shields.io/badge/C2_Monitoring-4682B4?style=for-the-badge)
 ![Network_Traffic_Analysis](https://img.shields.io/badge/Network_Traffic_Analysis-1E90FF?style=for-the-badge)
 ![Beaconing_Detection](https://img.shields.io/badge/Beaconing_Detection-00008B?style=for-the-badge)
-![Botnet_Analysis](https://img.shields.io/badge/Botnet_Analysis-483D8B?style=for-the-badge)
-![APT_Analysis](https://img.shields.io/badge/APT_Analysis-2F4F4F?style=for-the-badge)
-![MITRE_ATT%26CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge)
 ![Threat_Hunting](https://img.shields.io/badge/Threat_Hunting-556B2F?style=for-the-badge)
-![Campaign_Tracking](https://img.shields.io/badge/Campaign_Tracking-8B4513?style=for-the-badge)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-4682B4?style=for-the-badge)
+
+### Incident Response & Early Warning
+
 ![Incident_Response](https://img.shields.io/badge/Incident_Response-B22222?style=for-the-badge)
 ![Ransomware_Response](https://img.shields.io/badge/Ransomware_Response-8B0000?style=for-the-badge)
 ![Early_Warning](https://img.shields.io/badge/Early_Warning-FF8C00?style=for-the-badge)
 
-### Threat Research
+---
 
-![Adversary TTPs](https://img.shields.io/badge/Adversary_TTPs-8B0000?style=for-the-badge)
-![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-4682B4?style=for-the-badge)
+## AI Ops
 
-### AI & Automation
+### Agents & Automation
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge)
 ![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-4338CA?style=for-the-badge)
