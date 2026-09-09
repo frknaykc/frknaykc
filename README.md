@@ -1,18 +1,18 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpwbjkycDViYWhwM3gxc3h6d3Y0MWlia3VreWRtbjR1dDc3bXBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yOt4iUfeWtk88/giphy.gif" width="300"/>
 
-<b>WHO AM I ?</b>
+## About Me
 
-I am a **Cyber Threat Intelligence & Cyber Security Researcher**  
-focused on **real-world threat analysis, adversary behavior, and emerging cyber threats**.
+I work across cybersecurity, threat intelligence, and threat hunting, with a focus on understanding real-world threats, adversary behavior, and evolving attack techniques.
 
-🔭 I’m currently working on **Cyber Threat Intelligence (CTI)**, malware & ransomware analysis, APT groups, C2 infrastructures  
-⚡ I’m currently learning how to apply **Machine Learning & Deep Learning** techniques in cyber security  
-💬 Ask me about **cyber security trends, threat actors, malware techniques, detection & response strategies**
+My research interests include APT groups, ransomware operations, malware, command-and-control (C2) infrastructure, and adversary TTPs. I’m particularly interested in analyzing how threat actors operate, how their infrastructure and techniques evolve, and how this intelligence can support threat hunting and detection.
+
+Alongside traditional security research, I spend a significant amount of time exploring the intersection of artificial intelligence and cybersecurity.
+
+My current interests are centered around AI agents, autonomous systems, and agentic workflows — particularly how these systems can be applied to security research, threat intelligence, threat hunting, analysis, and automation.
+
+I’m also interested in the security challenges introduced by AI-native systems, including AI/LLM security, agent security, prompt injection, tool and workflow abuse, and the attack surface created by increasingly autonomous systems.
 
 ---
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhnZTF1a2NxZ25jcTQwZzczYzduM3pyNml0dms1amk0MGIwZTlnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/TfcXllcrcwiGpFRI8Y/giphy.gif" width="300" style="vertical-align:middle;" /> 
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
@@ -44,7 +44,7 @@ focused on **real-world threat analysis, adversary behavior, and emerging cyber 
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z245b3Ztand4bXhtcjN0M3J5a3N5aGF3dzI1cno4a2NyeXRsd2szeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LYNBThoyNcr9vwoUIR/giphy.gif" width="48" style="vertical-align:middle;" /> <b>cyber ops</b>
+<b>cyber ops</b>
 
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-FF4500?style=for-the-badge)
 ![OSINT](https://img.shields.io/badge/OSINT-00A1D7?style=for-the-badge)
@@ -67,6 +67,24 @@ focused on **real-world threat analysis, adversary behavior, and emerging cyber 
 ![Incident_Response](https://img.shields.io/badge/Incident_Response-B22222?style=for-the-badge)
 ![Ransomware_Response](https://img.shields.io/badge/Ransomware_Response-8B0000?style=for-the-badge)
 ![Early_Warning](https://img.shields.io/badge/Early_Warning-FF8C00?style=for-the-badge)
+
+### Threat Research
+
+![Adversary TTPs](https://img.shields.io/badge/Adversary_TTPs-8B0000?style=for-the-badge)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-4682B4?style=for-the-badge)
+
+### AI & Automation
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-4338CA?style=for-the-badge)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-0078D6?style=for-the-badge)
+
+### AI Security
+
+![AI/LLM Security](https://img.shields.io/badge/AI%2FLLM_Security-B22222?style=for-the-badge)
+![Agent Security](https://img.shields.io/badge/Agent_Security-8B0000?style=for-the-badge)
+![Prompt Injection](https://img.shields.io/badge/Prompt_Injection-DC143C?style=for-the-badge)
+![Tool & Workflow Abuse](https://img.shields.io/badge/Tool_%26_Workflow_Abuse-FF6633?style=for-the-badge)
 
 ---
 
